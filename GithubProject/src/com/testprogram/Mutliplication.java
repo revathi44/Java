@@ -6,6 +6,7 @@ public void mul()
 {
 	c=a*b;
 	System.out.println(c);
+	System.out.println("hi");
 }
 public static void main(String[] args) {
 	Mutliplication mp=new Mutliplication();
