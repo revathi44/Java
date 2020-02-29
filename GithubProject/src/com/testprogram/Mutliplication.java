@@ -7,6 +7,7 @@ public void mul()
 	c=a*b;
 	System.out.println(c);
 	System.out.println("hi");
+	System.out.println("ram");
 }
 public static void main(String[] args) {
 	Mutliplication mp=new Mutliplication();
